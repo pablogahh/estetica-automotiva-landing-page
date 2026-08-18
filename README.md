@@ -2,7 +2,7 @@
 
 > **Projeto Real** desenvolvido para cliente do setor de estética automotiva, focado na captação de clientes e apresentação de serviços especializados.
 
- **Acesse o projeto online:** [Clique aqui para visualizar](https://SEU_USUARIO.github.io/NOME_DO_REPOSITORIO/)
+ **Acesse o projeto online:** (https://pablogahh.github.io/estetica-automotiva-landing-page/) (https://github.com/pablogahh/estetica-automotiva-landing-page.git)
 
 ---
 
