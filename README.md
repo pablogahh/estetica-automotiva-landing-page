@@ -10,7 +10,7 @@
 
 O objetivo deste projeto foi criar uma presença digital moderna e responsiva para um negócio local de lavagem detalhada. A página destaca os principais serviços (higienização interna, polimento, vitrificação), depoimentos e um canal direto de contato via WhatsApp.
 
-## Tecnologias Utilizadas
+## Utilizadas
 * **HTML5** (Estruturação semântica)
 * **CSS3 / Materialize CSS** (Design responsivo e componentes visuais)
 * **JavaScript / jQuery** (Animações de Scroll, Parallax e navegação dinâmica)
